@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Submenu
+title: TEST Submenu
 ---
